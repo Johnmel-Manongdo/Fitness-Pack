@@ -8,6 +8,8 @@ A social media flutter application for fitness enthusiasts.
 - Account login and logout
 - Fitness tutorials
 
+## Screenshots
+
 ![](screenshots/fitnesspack.png)
 ![](screenshots/fitnesspack2.png)
 ![](screenshots/fitnesspack3.png)
