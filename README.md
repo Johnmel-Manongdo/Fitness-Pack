@@ -9,6 +9,3 @@ A social media flutter application for fitness enthusiasts.
 - Fitness tutorials
 
 ![](screenshots/fitnesspack.png)
-![](screenshots/fitnesspack2.png)
-![](screenshots/fitnesspack3.png)
-![](screenshots/fitnesspack4.png)
